@@ -1,6 +1,6 @@
 {
   "name": "@nixjs23n6/aptos-wallet-icon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A tiny object utility",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",

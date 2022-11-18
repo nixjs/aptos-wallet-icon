@@ -4,7 +4,7 @@ export const Dapps = [
         url: 'https://pancakeswap.finance/',
         description: 'Most popular and feature-rich DeFi DApp and AMM',
         trusted: '',
-        img: 'https://__url__PancakeSwap.png',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/PancakeSwap.png',
         category: 'DEFI',
     },
     {
@@ -12,7 +12,7 @@ export const Dapps = [
         url: 'https://app.enchanter.fi/',
         description: 'The 1st Social Trading AMM DEX',
         trusted: '',
-        img: 'https://__url__EnchanterLogo.png',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/EnchanterLogo.png',
         category: 'DEX',
     },
     {
@@ -20,7 +20,7 @@ export const Dapps = [
         url: 'https://aptos.itsrare.app/',
         description: 'A Gateway for creating, discovering and trading digital asset on the Aptos Blockchain',
         trusted: '',
-        img: 'https://__url__Itrare.png',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/Itrare.png',
         category: 'MARKETPLACE',
     },
     {
@@ -28,7 +28,7 @@ export const Dapps = [
         url: 'https://www.kanalabs.io/',
         description: 'DeFi platform where users across multiple blockchains',
         trusted: '',
-        img: 'https://__url__Kana.png',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/Kana.png',
         category: 'DEFI',
     },
     {
@@ -36,7 +36,7 @@ export const Dapps = [
         url: 'https://protonsale.io/',
         description: 'The launchpad Protocol',
         trusted: '',
-        img: 'https://__url__ProtonSale.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/ProtonSale.jpeg',
         category: 'LAUNCHPAD',
     },
     {
@@ -44,7 +44,7 @@ export const Dapps = [
         url: 'https://souffl3.com/',
         description: 'Smart Trading NFT Marketplace',
         trusted: '',
-        img: 'https://__url__Souffl3.png',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/Souffl3.png',
         category: 'MARKETPLACE',
     },
     {
@@ -52,7 +52,7 @@ export const Dapps = [
         url: 'https://aptoswap.net/',
         description: 'Lighweight & Powerful Swap Platform',
         trusted: '',
-        img: 'https://__url__AptosSwap.png',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/AptosSwap.png',
         category: 'LENDING',
     },
     {
@@ -60,7 +60,7 @@ export const Dapps = [
         url: 'https://www.topaz.so/',
         description: 'A Powerful, Safety, and Scalable NFT Marketplace on Aptos',
         trusted: '',
-        img: 'https://__url__Topaz.svg',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/Topaz.svg',
         category: 'MARKETPLACE',
     },
     {
@@ -68,7 +68,7 @@ export const Dapps = [
         url: 'https://www.seam.money/',
         description: 'Structured DeFi Products',
         trusted: '',
-        img: 'https://__url__Seam.png',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/Seam.png',
         category: 'OTHER',
     },
     {
@@ -76,7 +76,7 @@ export const Dapps = [
         url: 'https://www.econia.dev/',
         description: 'Hyper-parallelized on-chain CLOB for the Aptos blockchain',
         trusted: '',
-        img: 'https://__url__Econia.png',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/Econia.png',
         category: 'OTHER',
     },
     {
@@ -84,7 +84,7 @@ export const Dapps = [
         url: 'https://dev.app.tortuga.finance/',
         description: 'Tortuga Finance is the most trusted liquid staking protocol on Aptos',
         trusted: '',
-        img: 'https://__url__Tortuga.png',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/Tortuga.png',
         category: 'STAKING',
     },
     {
@@ -93,7 +93,7 @@ export const Dapps = [
         description:
             'Aries Market is a decentralised margin trading protocol on Aptos. Lend, borrow and trade with margin via a fully on-chain order book',
         trusted: '',
-        img: 'https://__url__AriesMarket.png',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/AriesMarket.png',
         category: 'LENDING',
     },
     {
@@ -101,7 +101,7 @@ export const Dapps = [
         url: 'https://tsunami.finance/',
         description: 'Trade spot & perpetuals with 0% slippage.',
         trusted: '',
-        img: 'https://__url__Tsunami.png',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/Tsunami.png',
         category: 'DEFI',
     },
     {
@@ -109,7 +109,7 @@ export const Dapps = [
         url: 'https://www.mojito.markets/',
         description: 'Decentralised Prediction Markets on the blockchain',
         trusted: '',
-        img: 'https://__url__Mojito.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/Mojito.jpeg',
         category: 'OTHER',
     },
     {
@@ -117,7 +117,7 @@ export const Dapps = [
         url: 'https://app.m-safe.io/',
         description: 'Multi-signature wallet solution The most secure digital assets management and analytics tool on Move',
         trusted: '',
-        img: 'https://__url__Momentum.png',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/Momentum.png',
         category: 'OTHER',
     },
     {
@@ -125,7 +125,7 @@ export const Dapps = [
         url: 'https://cbridge.celer.network/1/12360001/USDC',
         description: 'cBridge introduces the best-in-class cross-chain token bridging experience with deep liquidity for users',
         trusted: '',
-        img: 'https://__url__Celer.png',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/Celer.png',
         category: 'DEFI',
     },
     {
@@ -133,7 +133,7 @@ export const Dapps = [
         url: 'https://abelfinance.xyz/#/markets',
         description: 'The first fully decentralized multiple cross-chain lending Defi running on the APTOS network',
         trusted: '',
-        img: 'https://__url__Abel.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/Abel.jpeg',
         category: 'LENDING',
     },
     {
@@ -141,7 +141,7 @@ export const Dapps = [
         url: 'https://meeiro.xyz/',
         description: 'A user driven IDO launchpad on Aptos Network connecting retail investors and projects together.',
         trusted: '',
-        img: 'https://__url__Meerio.svg',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/Meerio.svg',
         category: 'LAUNCHPAD',
     },
     {
@@ -149,7 +149,7 @@ export const Dapps = [
         url: 'https://meson.fi/fewcha',
         description: 'Meson provides minute-fast swaps with almost-zero fee & slippage across all major blockchains.',
         trusted: '',
-        img: 'https://__url__Meson.png',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/Meson.png',
         category: 'LENDING',
     },
     {
@@ -158,7 +158,7 @@ export const Dapps = [
         description:
             'Aptin is a decentralised non-custodial liquidity market protocol where users can participate as depositors or borrowers',
         trusted: '',
-        img: 'https://__url__Aptin.png',
+        img: 'https://raw.githubusercontent.com/nixjs/aptos-wallet-icon/main/dapps/Aptin.png',
         category: 'LENDING',
     },
 ]
